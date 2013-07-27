@@ -1,5 +1,9 @@
 {
     "name": "angular-ui-router",
+    "repo": "weltenwort/angular-ui-router",
+    "description": "UI-Router for Nested Routing by the AngularUI Team",
+    "version": "0.0.1",
+    "license": "MIT",
     "local": [
         "angular"
     ],

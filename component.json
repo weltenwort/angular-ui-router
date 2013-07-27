@@ -2,7 +2,7 @@
     "name": "angular-ui-router",
     "repo": "weltenwort/angular-ui-router-component",
     "description": "UI-Router for Nested Routing by the AngularUI Team",
-    "version": "0.0.1",
+    "version": "0.0.1-2",
     "license": "MIT",
     "dependencies": {
         "weltenwort/angular-component": "1.1.5"

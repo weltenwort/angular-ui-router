@@ -1,0 +1,10 @@
+{
+    "name": "angular-ui-router",
+    "local": [
+        "angular"
+    ],
+    "scripts": [
+        "index.js",
+        "angular-ui-router.js"
+    ]
+}
